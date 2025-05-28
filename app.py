@@ -14,7 +14,7 @@ from openpyxl.cell.cell import MergedCell
 from concurrent.futures import ThreadPoolExecutor
 
 st.set_page_config(page_title="Leitor de XML | Regime Tributário", layout="centered")
-st.title("⚡ Leitor de XML em Massa - Regime Tributário da Empresa")
+st.title("🔍Leitor de XML - Regime Tributário da Empresa")
 st.write("Este aplicativo é otimizado para processar grandes volumes de arquivos XML compactados (.zip).")
 
 def map_crt(crt):
