@@ -1,1 +1,0 @@
-<conteúdo completo do script foi colocado aqui, idêntico à célula anterior>
